@@ -8,6 +8,14 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
+
+            //IF statements 
+
+            int myInt = 5;
+            int mySecondInt = 10;
+
+            Console.WriteLine(myInt);
+            
             // Write Your Code Here
             // string myString = "Hello World";
             // decimal myDecimal = 0.77m;
@@ -143,7 +151,7 @@ namespace HelloWorld
 
             //If statement
 
-            int
+            
 
         }
     }
